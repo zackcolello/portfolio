@@ -1,0 +1,5 @@
+portfolio/settings.py
+.DS_Store
+.idea/workspace.xml
+.idea/vcs.xml
+*.pyc
